@@ -1,0 +1,15 @@
+itertools
+typing
+altair
+functools
+graphviz
+anytree
+tqdm
+pathlib
+typing
+numpy
+pandas
+pm4py
+streamlit 
+jupyter-server-proxy 
+nbserverproxy
