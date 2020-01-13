@@ -5,4 +5,4 @@ mv .binder/streamlit_call.py ${NB_PYTHON_PREFIX}/lib/python*/site-packages/
 # enable streamlit extension
 jupyter serverextension enable --sys-prefix streamlit_call
 git clone https://github.com/Enzou/Trufflehunter.git
-mv data/raw/running-example.csv data/raw/dt_sessions_01_10_2019-01_01_2020.csv
+mv Trufflehunter/data/raw/running-example.csv Trufflehunter/data/raw/dt_sessions_01_10_2019-01_01_2020.csv
